@@ -1,2 +1,2 @@
 # swapping
-this swaps two digits in a number 
+this swaps two characters  
